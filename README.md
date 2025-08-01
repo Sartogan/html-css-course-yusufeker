@@ -1,4 +1,6 @@
 ## HTML and CSS Course Materials
+I've forked this repository to host my practice exercises from the SuperSimpleDev HTML/CSS course.
+
 📚 Watch the course here: https://youtu.be/G3e-cpL7ofc
 
 1. [Exercise solutions](1-exercise-solutions)
